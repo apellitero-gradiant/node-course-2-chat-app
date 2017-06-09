@@ -12,6 +12,7 @@
   "author": "Alexandre Pellitero Rivero <apellitero@gradiant.org>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "socket.io": "^1.4.8"
   }
 }
